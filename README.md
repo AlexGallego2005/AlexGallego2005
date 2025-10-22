@@ -1,1 +1,1 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3519003" style='border:none;'></iframe>
+![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/Nyalex.png)
