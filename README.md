@@ -4,4 +4,5 @@ Aquí donde me ves, me gusta programar. Otra cosa distinta es que termine todo l
 
 Estoy empezando documentación algo _random_ en [Nyalex](https://nyalex.dev/docs).
 
-[![Secured by VulnRadar](https://vulnradar.dev/api/badge/cf550dab2c0fa9b161306d5a472b3bb21e9368a1bce0af28dcb22e185f6eb28f)](https://vulnradar.dev/shared/cf550dab2c0fa9b161306d5a472b3bb21e9368a1bce0af28dcb22e185f6eb28f)
+[![Secured by VulnRadar](https://vulnradar.dev/api/badge/30ff29e3e7d1967946c1237a30416f6d6b71694eab072395c73a64c4b63c1373)](https://vulnradar.dev/shared/30ff29e3e7d1967946c1237a30416f6d6b71694eab072395c73a64c4b63c1373)
+
